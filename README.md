@@ -2,7 +2,7 @@
 
 A Pokémon battle simulator where users can simulate battles between two teams of Pokémon.
 
-This project is setup as a yarn workspace with a client and a server:
+This project is setup as a yarn workspace with a client and a server.
 
 ### www-server
 
