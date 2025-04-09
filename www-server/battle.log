@@ -1,0 +1,64 @@
+2025-04-09 14:30:58 info: Server is running on port 3000
+2025-04-09 14:31:05 info: --- Round 1 ⏰ ---
+2025-04-09 14:31:05 info: --- Team 1 attacks Team 2 ---
+2025-04-09 14:31:05 info: Squirtle attacks Bulbasaur for 19.97 damage ⚡
+2025-04-09 14:31:05 info: Wartortle attacks Bulbasaur for 32.89 damage ⚡
+2025-04-09 14:31:05 info: Blastoise attacks Bulbasaur for 87.10 damage ⚡
+2025-04-09 14:31:05 info: --- Team 2 attacks Team 1 ---
+2025-04-09 14:31:05 info: Ivysaur attacks Squirtle for 35.81 damage ⚡
+2025-04-09 14:31:05 info: Venusaur attacks Squirtle for 163.22 damage ⚡
+2025-04-09 14:31:05 info: --- Round 2 ⏰ ---
+2025-04-09 14:31:05 info: --- Team 1 attacks Team 2 ---
+2025-04-09 14:31:05 info: Wartortle attacks Ivysaur for 32.89 damage ⚡
+2025-04-09 14:31:05 info: Blastoise attacks Ivysaur for 87.10 damage ⚡
+2025-04-09 14:31:05 info: --- Team 2 attacks Team 1 ---
+2025-04-09 14:31:05 info: Venusaur attacks Wartortle for 163.22 damage ⚡
+2025-04-09 14:31:05 info: --- Round 3 ⏰ ---
+2025-04-09 14:31:05 info: --- Team 1 attacks Team 2 ---
+2025-04-09 14:31:05 info: Blastoise attacks Venusaur for 87.10 damage ⚡
+2025-04-09 14:31:05 info: --- Team 2 attacks Team 1 ---
+2025-04-09 14:31:05 info: Venusaur attacks Blastoise for 163.22 damage ⚡
+2025-04-09 14:31:05 info: Winner: Team 2 ✨
+2025-04-09 14:34:22 info: Server is running on port 3000
+2025-04-09 15:03:24 info: Server is running on port 3000
+2025-04-09 15:03:31 info: Server is running on port 3000
+2025-04-09 15:07:50 info: Server is running on port 3000
+2025-04-09 15:09:48 info: Server is running on port 3000
+2025-04-09 15:37:59 info: --- Round 1 ⏰ ---
+2025-04-09 15:37:59 info: --- Team 1 attacks Team 2 ---
+2025-04-09 15:37:59 info: Bulbasaur attacks Charmander for 12.02 damage ⚡
+2025-04-09 15:37:59 info: Ivysaur attacks Charmander for 22.38 damage ⚡
+2025-04-09 15:37:59 info: Venusaur attacks Charmander for 102.01 damage ⚡
+2025-04-09 15:37:59 info: --- Team 2 attacks Team 1 ---
+2025-04-09 15:37:59 info: Charmeleon attacks Bulbasaur for 57.54 damage ⚡
+2025-04-09 15:37:59 info: Charizard attacks Bulbasaur for 147.52 damage ⚡
+2025-04-09 15:37:59 info: --- Round 2 ⏰ ---
+2025-04-09 15:37:59 info: --- Team 1 attacks Team 2 ---
+2025-04-09 15:37:59 info: Ivysaur attacks Charmeleon for 22.38 damage ⚡
+2025-04-09 15:37:59 info: Venusaur attacks Charmeleon for 102.01 damage ⚡
+2025-04-09 15:37:59 info: --- Team 2 attacks Team 1 ---
+2025-04-09 15:37:59 info: Charizard attacks Ivysaur for 147.52 damage ⚡
+2025-04-09 15:37:59 info: --- Round 3 ⏰ ---
+2025-04-09 15:37:59 info: --- Team 1 attacks Team 2 ---
+2025-04-09 15:37:59 info: Venusaur attacks Charizard for 102.01 damage ⚡
+2025-04-09 15:37:59 info: Winner: Team 1 ✨
+2025-04-09 15:49:41 info: --- Round 1 ⏰ ---
+2025-04-09 15:49:41 info: --- Team 1 attacks Team 2 ---
+2025-04-09 15:49:41 info: Bulbasaur attacks Charmander for 12.02 damage ⚡
+2025-04-09 15:49:41 info: Ivysaur attacks Charmander for 22.38 damage ⚡
+2025-04-09 15:49:41 info: Venusaur attacks Charmander for 102.01 damage ⚡
+2025-04-09 15:49:41 info: --- Team 2 attacks Team 1 ---
+2025-04-09 15:49:41 info: Charmeleon attacks Bulbasaur for 57.54 damage ⚡
+2025-04-09 15:49:41 info: Charizard attacks Bulbasaur for 147.52 damage ⚡
+2025-04-09 15:49:41 info: --- Round 2 ⏰ ---
+2025-04-09 15:49:41 info: --- Team 1 attacks Team 2 ---
+2025-04-09 15:49:41 info: Ivysaur attacks Charmeleon for 22.38 damage ⚡
+2025-04-09 15:49:41 info: Venusaur attacks Charmeleon for 102.01 damage ⚡
+2025-04-09 15:49:41 info: --- Team 2 attacks Team 1 ---
+2025-04-09 15:49:41 info: Charizard attacks Ivysaur for 147.52 damage ⚡
+2025-04-09 15:49:41 info: --- Round 3 ⏰ ---
+2025-04-09 15:49:41 info: --- Team 1 attacks Team 2 ---
+2025-04-09 15:49:41 info: Venusaur attacks Charizard for 102.01 damage ⚡
+2025-04-09 15:49:41 info: Winner: Team 1 ✨
+2025-04-09 15:53:02 info: Server is running on port 3000
+2025-04-09 15:53:49 info: Server is running on port 3000
