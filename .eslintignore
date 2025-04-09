@@ -1,0 +1,6 @@
+build/
+node_modules/
+*.min.js
+*.aem.js
+*.log
+jest/
